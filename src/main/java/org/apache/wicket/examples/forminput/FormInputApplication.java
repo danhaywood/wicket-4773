@@ -61,7 +61,7 @@ public class FormInputApplication extends WicketExampleApplication
 		super.init();
 
 		// uncomment this ... the ComponentFeedbackPanel fails to render.
-		getRequestCycleSettings().setRenderStrategy(RenderStrategy.REDIRECT_TO_RENDER);
+		//getRequestCycleSettings().setRenderStrategy(RenderStrategy.REDIRECT_TO_RENDER);
 
 	}
 }
